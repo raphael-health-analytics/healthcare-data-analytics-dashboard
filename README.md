@@ -56,7 +56,7 @@ Missing data and the meaning of individual referral categories should be conside
 ## Skills Demonstrated
 Data preparation, data quality assessment, Excel analysis, Power Query, DAX measures, KPI development, data visualization, demographic analysis, dashboard design, and analytical communication.
 ## Author
-Raphael Ogabor Ikpakronyi
+Raphael Ogabor Ikpakronyi<br>
 Portfolio project: Healthcare Data Analytics Dashboard
 Github:
 LinkedIn:
