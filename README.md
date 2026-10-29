@@ -58,5 +58,4 @@ Data preparation, data quality assessment, Excel analysis, Power Query, DAX meas
 ## Author
 Raphael Ogabor Ikpakronyi <br>
 Portfolio project: Healthcare Data Analytics Dashboard <br>
-Github: <br>
-LinkedIn: <br>
+LinkedIn: https://www.linkedin.com/in/raphael-ikpakronyi-b4bb3514b/ <br>
