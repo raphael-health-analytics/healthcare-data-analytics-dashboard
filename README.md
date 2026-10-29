@@ -20,6 +20,7 @@ The analyzed dataset contains 9,216 patient records. Of these, 2,517 have record
 The analysis includes patient demographics, emergency department waiting times, satisfaction scores, and department referral categories. <br>
 Dataset source: https://www.kaggle.com/search?q=hospital+ER+Data+in%3Adatasets
 ## Dashboard Features
+
 KPI Summary Cards
 The dashboard includes four KPI cards covering:
 - Total patient records
